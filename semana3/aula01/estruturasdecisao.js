@@ -40,8 +40,9 @@ else if(numero1==letra)
     console.log('Eles são iguais');    
 else
     console.log('Os dois não são do mesmo tipo e nem iguais');
+ */
 
-    let opcao = 1;
+let opcao = 1;
 switch(opcao){
 
     case 1 : console.log("ensino médio"); break;
@@ -55,8 +56,7 @@ switch(opcao){
     default: console.log("escolaridade não definida.");
 
 }
-
-    */
+   
 
 
 
