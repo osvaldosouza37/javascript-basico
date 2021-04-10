@@ -258,4 +258,4 @@ function fatorial(num){
     console.log(fatorial);
 }
 
-//fatorial(6);
+fatorial(6);
